@@ -2146,7 +2146,7 @@ body.overlay__active::before {
 @media only screen and (max-width:991px) {
     .offcanvas__header--menu__open {
         display: block;
-        padding-left: 165px;
+        padding-left: 155px;
     }
 }
 
